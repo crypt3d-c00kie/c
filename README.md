@@ -1,2 +1,1 @@
-# c_programs
-Common
+common c programs that i've written
